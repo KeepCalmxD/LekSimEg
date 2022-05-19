@@ -1,33 +1,3 @@
-# LekSimEg
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@KeepCalmxD 
-stdMadfat
-/
-NetworkOS-4semestr
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Update README.md
- main
-@stdMadfat
-stdMadfat committed 2 days ago 
-1 parent bd86044 commit e91038e117fe6b08a6536f6281a18613eeba06ac
-Showing  with 1 addition and 0 deletions.
- 1  
-README.md
-@@ -1,19 +1,20 @@
 # NetworkOS-4semestr
 ## Лекционные материалы
 Репозиторий создан с целью практической реализации некоторых программ, разбираемых на лекциях в течение учебного семестра.
@@ -123,25 +93,3 @@ Incomming message (8): Eureka!
   
 read error: Success  
 ```
-___
-0 comments on commit e91038e
-@KeepCalmxD
- 
- 
-Leave a comment
-Файл не выбран
-Attach files by dragging & dropping, selecting or pasting them.
- You’re not receiving notifications from this thread.
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
